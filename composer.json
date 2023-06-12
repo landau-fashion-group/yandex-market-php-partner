@@ -16,6 +16,12 @@
     "php-coveralls/php-coveralls": "^2.0",
     "phpunit/phpunit": "5.7.6"
   },
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/marlenus/yandex-market-php-common"
+		}
+	],
   "authors": [
     {
       "name": "Kirill Litvinov",
